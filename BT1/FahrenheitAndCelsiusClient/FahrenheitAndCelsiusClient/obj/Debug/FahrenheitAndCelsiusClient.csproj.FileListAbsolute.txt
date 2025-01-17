@@ -1,0 +1,10 @@
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT1\FahrenheitAndCelsiusClient\FahrenheitAndCelsiusClient\bin\Debug\FahrenheitAndCelsiusClient.exe.config
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT1\FahrenheitAndCelsiusClient\FahrenheitAndCelsiusClient\bin\Debug\FahrenheitAndCelsiusClient.exe
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT1\FahrenheitAndCelsiusClient\FahrenheitAndCelsiusClient\bin\Debug\FahrenheitAndCelsiusClient.pdb
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT1\FahrenheitAndCelsiusClient\FahrenheitAndCelsiusClient\obj\Debug\FahrenheitAndCelsiusClient.csproj.AssemblyReference.cache
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT1\FahrenheitAndCelsiusClient\FahrenheitAndCelsiusClient\obj\Debug\FahrenheitAndCelsiusClient.Form1.resources
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT1\FahrenheitAndCelsiusClient\FahrenheitAndCelsiusClient\obj\Debug\FahrenheitAndCelsiusClient.Properties.Resources.resources
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT1\FahrenheitAndCelsiusClient\FahrenheitAndCelsiusClient\obj\Debug\FahrenheitAndCelsiusClient.csproj.GenerateResource.cache
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT1\FahrenheitAndCelsiusClient\FahrenheitAndCelsiusClient\obj\Debug\FahrenheitAndCelsiusClient.csproj.CoreCompileInputs.cache
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT1\FahrenheitAndCelsiusClient\FahrenheitAndCelsiusClient\obj\Debug\FahrenheitAndCelsiusClient.exe
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT1\FahrenheitAndCelsiusClient\FahrenheitAndCelsiusClient\obj\Debug\FahrenheitAndCelsiusClient.pdb

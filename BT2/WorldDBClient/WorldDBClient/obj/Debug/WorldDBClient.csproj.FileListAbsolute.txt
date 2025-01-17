@@ -1,0 +1,10 @@
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT2\WorldDBClient\WorldDBClient\obj\Debug\WorldDBClient.csproj.AssemblyReference.cache
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT2\WorldDBClient\WorldDBClient\obj\Debug\WorldDBClient.Form1.resources
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT2\WorldDBClient\WorldDBClient\obj\Debug\WorldDBClient.Properties.Resources.resources
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT2\WorldDBClient\WorldDBClient\obj\Debug\WorldDBClient.csproj.GenerateResource.cache
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT2\WorldDBClient\WorldDBClient\obj\Debug\WorldDBClient.csproj.CoreCompileInputs.cache
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT2\WorldDBClient\WorldDBClient\bin\Debug\WorldDBClient.exe.config
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT2\WorldDBClient\WorldDBClient\bin\Debug\WorldDBClient.exe
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT2\WorldDBClient\WorldDBClient\bin\Debug\WorldDBClient.pdb
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT2\WorldDBClient\WorldDBClient\obj\Debug\WorldDBClient.exe
+D:\spaceforwork\MainCodeWorkspace\UEH\KTPM_HDV\BTVN_B3\BT2\WorldDBClient\WorldDBClient\obj\Debug\WorldDBClient.pdb
