@@ -229,7 +229,64 @@ public class CountryRepository
 
 ### 6. Bước 6: Tạo dịch vụ: tệp Dịch vụ web ASP.NET (SOAP)
 - Trong file: WorldDBServ.asmx:
-  - 
+```cs
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Web;
+using System.Web.Services;
+using WorldDBServ.db;
+using WorldDBServ.entities;
+
+namespace WorldDBServ.api
+{
+	/// <summary>
+	/// Summary description for WorldDBServ
+	/// </summary>
+	[WebService(Namespace = "http://tempuri.org/")]
+	[WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
+	[System.ComponentModel.ToolboxItem(false)]
+	// To allow this Web Service to be called from script, using ASP.NET AJAX, uncomment the following line. 
+	// [System.Web.Script.Services.ScriptService]
+	public class WorldDBServ : System.Web.Services.WebService
+	{
+
+		[WebMethod]
+		public List<City> getAllCities()
+		{
+			CityRepository countryRepository = new CityRepository();
+			return countryRepository.getAllCities();
+		}
+		[WebMethod]
+		public Country GetCountryByCode(string countryCode)
+		{
+			CountryRepository countryRepository = new CountryRepository();
+			return countryRepository.GetCountryByCode(countryCode);
+		}
+
+		[WebMethod]
+		public City GetCityByName(string cityName)
+		{
+			CityRepository cityRepository = new CityRepository();
+			return cityRepository.GetCityByName(cityName);
+		}
+
+		[WebMethod]
+		public List<City> GetCitiesByCountry(string countryCode)
+		{
+			CityRepository cityRepository = new CityRepository();
+			return cityRepository.GetCitiesByCountry(countryCode);
+		}
+
+		[WebMethod]
+		public List<Country> GetCountriesByPopulation(long populationThreshold)
+		{
+			CountryRepository countryRepository = new CountryRepository();
+			return countryRepository.GetCountriesByPopulation(populationThreshold);
+		}
+	}
+}
+```
 ### 7. Bước 7: Tiến hành chạy thử nghiệm
 - Chạy chương trình: Ta thu được giao diện web
   - ![Screenshot 2025-01-17 194643](https://github.com/user-attachments/assets/bd778a53-1c52-44f6-8b32-30856ae83ae6)
